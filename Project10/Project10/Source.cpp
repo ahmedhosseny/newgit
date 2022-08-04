@@ -11,4 +11,5 @@ int main()
 	cout << "this was the sum" << endl;
 	cout << "hellow world" << endl;
 	cout << "input 2 numbers" << endl;
+	cout << "******************" << endl;
 }
