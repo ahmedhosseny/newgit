@@ -13,4 +13,5 @@ int main()
 	cout << "input 2 numbers" << endl;
 	cout << "******************" << endl;
 	cout << "sum=";
+	cout << "sum=";
 }
