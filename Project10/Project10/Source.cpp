@@ -14,4 +14,5 @@ int main()
 	cout << "******************" << endl;
 	cout << "sum=";
 	cout << "sum=";
+	cout << "sum=";
 }
